@@ -65,8 +65,8 @@ export default function ProjectsSection() {
 
               <ul className="space-y-2 mb-5 flex-1">
                 {p.bullets.map((b, j) => (
-                  <li key={j} className="flex gap-2 text-xs text-[#1A1A2E] leading-relaxed">
-                    <span className="text-[#4A90C4] flex-shrink-0 mt-0.5">▸</span>
+                  <li key={j} className="flex items-start gap-3 text-xs text-[#1A1A2E] leading-relaxed">
+                    <span className="inline-block w-1.5 h-1.5 rounded-full bg-[#4A90C4] flex-shrink-0 mt-[5px]"></span>
                     <span>{b}</span>
                   </li>
                 ))}
