@@ -18,17 +18,16 @@ export default function HeroSection() {
         </h2>
 
         <p className="text-base md:text-lg text-[#6B7399] max-w-xl mx-auto mb-12 leading-relaxed">
-          結合 IT 支援基礎與商業流程優化能力，<br className="hidden md:block" />
-          擅長跨部門溝通與資料處理自動化。
+          具備 IT 設備支援與業務流程優化實戰經驗，<br className="hidden md:block" />
+          橫跨半導體、物流與教育三大產業。
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-20">
           <a
-            href="/resume.pdf"
-            download
+            href="mailto:win8.1134679@gmail.com"
             className="bg-[#2C5F8A] text-white px-8 py-3.5 rounded-xl font-semibold hover:bg-[#1d4a6e] transition-colors shadow-lg shadow-blue-900/20"
           >
-            ↓ 下載 PDF 履歷
+            ✉ 寄信給我
           </a>
           <a
             href="#contact"

@@ -18,9 +18,9 @@ export default function AboutSection() {
         <div className="grid md:grid-cols-5 gap-10 items-start">
           <div className="md:col-span-3 space-y-5 text-[#1A1A2E] leading-[1.9] text-[15px]">
             <p>
-              就讀醒吾科技大學企業管理系期間，我在學校資訊中心擔任 IT 工讀生
+              就讀醒吾科技大學企業管理系期間，我在<strong className="text-[#2C5F8A] font-semibold">企管系系辦公室</strong>擔任行政工讀生
               <strong className="text-[#2C5F8A] font-semibold">長達六年</strong>，
-              從電腦保養、設備維護到視覺設計作品，累積紮實的資訊基礎。這段經歷讓我找到熱情所在——利用技術解決實際問題。
+              從電腦保養、設備維護到視覺設計作品，累積紮實的行政與資訊基礎。這段經歷讓我找到熱情所在——利用技術解決實際問題。
             </p>
             <p>
               畢業前，我先後在<strong className="text-[#2C5F8A] font-semibold">南亞科技</strong>與

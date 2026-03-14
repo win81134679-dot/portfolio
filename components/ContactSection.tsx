@@ -4,8 +4,8 @@ const contacts = [
   {
     icon: '✉',
     label: '電子信箱',
-    value: 'win9134679@outlook.com',
-    href: 'mailto:win9134679@outlook.com',
+    value: 'win8.1134679@gmail.com',
+    href: 'mailto:win8.1134679@gmail.com',
     breakAll: true,
   },
   {
@@ -74,18 +74,17 @@ export default function ContactSection() {
             );
           })}
 
-          {/* Download PDF card */}
+          {/* Send email card */}
           <a
-            href="/resume.pdf"
-            download
+            href="mailto:win8.1134679@gmail.com"
             className="flex items-center gap-4 bg-[#2C5F8A] border border-[#2C5F8A] rounded-2xl p-5 hover:bg-[#1d4a6e] transition-colors col-span-full sm:col-span-1"
           >
             <div className="w-12 h-12 bg-white/20 rounded-xl flex items-center justify-center text-xl text-white flex-shrink-0">
-              ↓
+              ✉
             </div>
             <div>
-              <div className="text-xs text-white/70 font-medium">下載</div>
-              <div className="text-sm font-semibold text-white">PDF 履歷</div>
+              <div className="text-xs text-white/70 font-medium">直接聯絡</div>
+              <div className="text-sm font-semibold text-white">寄信給我</div>
             </div>
           </a>
         </div>
