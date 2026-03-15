@@ -34,7 +34,7 @@ export default function ContactSection() {
           期待與您聯繫
         </h3>
         <p className="text-[#6B7399] text-base mb-12 max-w-lg leading-relaxed">
-          目前積極求職中，歡迎 HR 或用人主管直接與我聯繫。
+          目前積極求職中，歡迎 HR 直接與我聯繫。
         </p>
 
         <div className="grid sm:grid-cols-2 gap-4 max-w-xl">
