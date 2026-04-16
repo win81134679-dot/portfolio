@@ -43,7 +43,7 @@ export default function HeroSection() {
           href="#about"
           className="inline-flex flex-col items-center gap-2 text-[#6B7399] hover:text-[#2C5F8A] transition-colors"
         >
-          <span className="text-xs tracking-widest uppercase">Scroll</span>
+          <span className="text-xs tracking-widest">查看更多</span>
           <svg
             className="animate-bounce"
             width="20"
