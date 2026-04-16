@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "張智森 — 行政人員 ／ 營業專員",
   description:
-    "張智森的個人履歷網站。具備 IT 設備支援與業務流程優化實戰經驗，橫跨半導體、物流與教育三大產業。",
+    "張智森的個人履歷網站。具備跨部門行政協調與 IT 設備支援經驗，歷經半導體、物流與教育三大產業實務歷練。",
   keywords: ["行政人員", "營業專員", "應屆畢業生", "張智森", "履歷"],
   icons: {
     icon: [

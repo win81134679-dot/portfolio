@@ -18,8 +18,8 @@ export default function HeroSection() {
         </h2>
 
         <p className="text-base md:text-lg text-[#6B7399] max-w-xl mx-auto mb-12 leading-relaxed">
-          具備 IT 設備支援與業務流程優化實戰經驗，<br className="hidden md:block" />
-          橫跨半導體、物流與教育三大產業。
+          具備跨部門行政協調與 IT 設備支援經驗，<br className="hidden md:block" />
+          歷經半導體、物流與教育三大產業實務歷練。
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-20">
