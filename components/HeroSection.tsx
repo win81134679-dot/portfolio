@@ -24,7 +24,7 @@ export default function HeroSection() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-20">
           <a
-            href="https://github.com/win81134679-dot/portfolio/raw/master/public/resume.pdf"
+            href="https://github.com/win81134679-dot/portfolio/raw/master/public/履歷_張智森.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-[#2C5F8A] text-white px-8 py-3.5 rounded-xl font-semibold hover:bg-[#1d4a6e] transition-colors shadow-lg shadow-blue-900/20"
