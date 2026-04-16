@@ -26,6 +26,15 @@ export const metadata: Metadata = {
     title: "張智森 — 個人履歷",
     description: "結合 IT 基礎與商業流程優化能力的應屆畢業生",
     type: "website",
+    url: "https://portfolio-pearl-three-41.vercel.app",
+    images: [
+      {
+        url: "https://portfolio-pearl-three-41.vercel.app/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "張智森 — 個人履歷",
+      },
+    ],
   },
 };
 
