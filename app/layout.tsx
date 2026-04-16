@@ -6,6 +6,14 @@ export const metadata: Metadata = {
   description:
     "張智森的個人履歷網站。結合 IT 基礎與商業流程優化能力的應屆畢業生，擅長跨部門溝通與資料處理自動化。",
   keywords: ["IT系統工程師", "營業專員", "應屆畢業生", "張智森", "履歷"],
+  icons: {
+    icon: [
+      { url: "/icon.svg", type: "image/svg+xml" },
+      { url: "/icon-192.png", sizes: "192x192", type: "image/png" },
+      { url: "/icon-512.png", sizes: "512x512", type: "image/png" },
+    ],
+    apple: "/apple-touch-icon.png",
+  },
   robots: {
     index: false,
     follow: false,

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- 背景 -->
+  <rect width="512" height="512" fill="#ffffff"/>
+
+  <!-- 文件本體（圓角矩形輪廓） -->
+  <rect x="128" y="58" width="256" height="396" rx="18" ry="18"
+        fill="none" stroke="#1a1a1a" stroke-width="22" stroke-linejoin="round"/>
+
+  <!-- 人像頭部（圓形輪廓） -->
+  <circle cx="256" cy="175" r="38"
+          fill="none" stroke="#1a1a1a" stroke-width="22"/>
+
+  <!-- 人像肩膀（弧線輪廓） -->
+  <path d="M182,282 Q182,230 256,218 Q330,230 330,282"
+        fill="none" stroke="#1a1a1a" stroke-width="22"
+        stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 文字行（裝飾性，代表履歷內容） -->
+  <line x1="176" y1="328" x2="336" y2="328"
+        stroke="#1a1a1a" stroke-width="12" stroke-linecap="round" opacity="0.20"/>
+  <line x1="176" y1="370" x2="336" y2="370"
+        stroke="#1a1a1a" stroke-width="12" stroke-linecap="round" opacity="0.20"/>
+  <line x1="176" y1="412" x2="280" y2="412"
+        stroke="#1a1a1a" stroke-width="12" stroke-linecap="round" opacity="0.15"/>
+</svg>
