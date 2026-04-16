@@ -14,13 +14,13 @@ const projects = [
     link: '',
   },
   {
-    name: 'Python 資料處理腳本',
+    name: 'Excel VBA 自動化報表',
     badge: 'Vibe Coding 模式實作',
     context:
       '以 AI 協作的 Vibe Coding 模式主導開發——包含需求定義、邏輯驗證到最終部署，全程由我把關品質。',
-    tech: ['Python', 'openpyxl', 'Vibe Coding'],
+    tech: ['Excel VBA', 'Vibe Coding'],
     bullets: [
-      '自動讀取 Excel 物流資料，依條件分類並輸出摘要報表',
+      '以 VBA 巨集自動讀取物流資料，依條件分類並輸出摘要報表',
       '大幅縮短人工統計時間，顯著降低資料輸入失誤率',
     ],
     link: '',
