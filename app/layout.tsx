@@ -2,10 +2,10 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "張智森 — 行政助理",
+  title: "張智森 — 行政人員 ／ 營業專員",
   description:
     "張智森的個人履歷網站。具備 IT 設備支援與業務流程優化實戰經驗，橫跨半導體、物流與教育三大產業。",
-  keywords: ["行政助理", "應屆畢業生", "張智森", "履歷"],
+  keywords: ["行政人員", "營業專員", "應屆畢業生", "張智森", "履歷"],
   icons: {
     icon: [
       { url: "/icon.svg", type: "image/svg+xml" },

@@ -14,7 +14,7 @@ export default function HeroSection() {
         </h1>
 
         <h2 className="text-xl md:text-2xl font-semibold text-[#2C5F8A] mb-6 tracking-wide">
-          行政助理
+          行政人員 ／ 營業專員
         </h2>
 
         <p className="text-base md:text-lg text-[#6B7399] max-w-xl mx-auto mb-12 leading-relaxed">
