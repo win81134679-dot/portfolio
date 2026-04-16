@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://zhang-zhi-sen.vercel.app"),
   title: "張智森 — 行政人員 ／ 營業專員",
   description:
     "張智森的個人履歷網站。具備跨部門行政協調與 IT 設備支援經驗，歷經半導體、物流與教育三大產業實務歷練。",
@@ -26,10 +27,10 @@ export const metadata: Metadata = {
     title: "張智森 — 個人履歷",
     description: "結合 IT 基礎與商業流程優化能力的應屆畢業生",
     type: "website",
-    url: "https://portfolio-pearl-three-41.vercel.app",
+    url: "https://zhang-zhi-sen.vercel.app",
     images: [
       {
-        url: "https://portfolio-pearl-three-41.vercel.app/og-image.png",
+        url: "/og-image.png",
         width: 1200,
         height: 630,
         alt: "張智森 — 個人履歷",
