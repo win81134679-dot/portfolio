@@ -56,7 +56,7 @@ export default function EducationSection() {
                   key={i}
                   className="bg-[#FAF9F6] border border-[#E8E4DC] rounded-xl px-5 py-3.5 flex items-center gap-3"
                 >
-                  <span className="text-[#4A90C4] text-base font-bold flex-shrink-0">✓</span>
+                  <span className="text-[#4A90C4] text-base font-bold shrink-0">✓</span>
                   <span className="text-[#1A1A2E] text-sm font-medium">{c}</span>
                 </div>
               ))}
