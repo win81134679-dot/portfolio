@@ -12,27 +12,26 @@ export default function AboutSection() {
       <div className="max-w-4xl mx-auto px-6">
         <SectionLabel>關於我</SectionLabel>
         <h3 className="text-3xl md:text-4xl font-black text-[#1A1A2E] mt-3 mb-12">
-          熱愛寵物，以執行力<br className="hidden md:block" />串聯物流與門市店務
+          熱衷於用科技解決<br className="hidden md:block" />實際業務問題
         </h3>
 
         <div className="grid md:grid-cols-5 gap-10 items-start">
           <div className="md:col-span-3 space-y-5 text-[#1A1A2E] leading-[1.9] text-[15px]">
             <p>
-              我是張智森，對<strong className="text-[#2C5F8A] font-semibold">寵物產業</strong>充滿熱忱的職場新鮮人，細心負責、樂於學習。
-              就讀醒吾科技大學企管系期間，在系辦公室擔任行政工讀生<strong className="text-[#2C5F8A] font-semibold">長達六年</strong>，
-              累積扎實的行政協調與系統操作基礎。
+              就讀醒吾科技大學企業管理系期間，我在<strong className="text-[#2C5F8A] font-semibold">企管系系辦公室</strong>擔任行政工讀生
+              <strong className="text-[#2C5F8A] font-semibold">長達六年</strong>，
+              從電腦保養、設備維護到視覺設計作品，累積紮實的行政與資訊基礎。這段經歷讓我找到熱情所在——利用技術解決實際問題。
             </p>
             <p>
-              曾於<strong className="text-[#2C5F8A] font-semibold">全台物流</strong>擔任營業專員，
-              協調物流中心與廠商間的訂單流程，並處理進出貨異常。
-              這段經歷讓我對<strong className="text-[#2C5F8A] font-semibold">商品進退貨、庫存盤點</strong>與電商訂單管理非常有概念，
-              能快速銜接門市後勤與店務管理。
+              畢業前，我先後在<strong className="text-[#2C5F8A] font-semibold">南亞科技</strong>與
+              <strong className="text-[#2C5F8A] font-semibold">全台物流</strong>兩家大型企業完成實習。
+              在南亞科技負責 IT 設備維修與系統支援；在全台物流則以 Excel VBA 與 Python（Vibe Coding 模式）
+              開發自動化工具，並在物流中心、全家客戶與廠商三方之間擔任溝通橋樑。
             </p>
             <p>
-              亦曾於<strong className="text-[#2C5F8A] font-semibold">南亞科技</strong>擔任 IT 實習生，
-              具備系統操作與問題排除能力，能快速上手 POS 機與進銷存系統；
-              並擅長以 <strong className="text-[#2C5F8A] font-semibold">Excel VBA 與 Python</strong> 優化作業效率。
-              此外持有普通重型機車駕照，可隨時配合門市外送任務。
+              我的跨領域背景——<strong className="text-[#2C5F8A] font-semibold">企管本科搭配 IT 實習</strong>
+              ——讓我能同時理解業務需求與技術限制。我正在尋找能結合 IT 支援與流程優化的職位，
+              相信能為組織帶來雙重價值：維護系統穩定的同時，從業務視角發現效率提升的機會。
             </p>
           </div>
 
